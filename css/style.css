@@ -14,11 +14,14 @@ button:focus{
     padding-top: 77px;
     padding-bottom: 96px;;
 }
+.header img{
+    width: 404px;
+    height: 630px;
+}
 .header-img {
   display: inline-block;  
   width: 44%;
   vertical-align: middle;
-  
 }
 .header-text {
   display: inline-block;
@@ -120,7 +123,10 @@ button:focus{
     line-height: 27px;
     margin-bottom: 69px;
 }
-
+.buyers-photos img {
+  width: 261px;
+  height: 261px;
+}
 .buyers-img{
     display: inline-block;
     margin-bottom: 40px;
